@@ -1,0 +1,27 @@
+{
+  "name": "edge-sessionstore",
+  "version": "1.0.0",
+  "description": "Session Store using Apigee Edge Cache Resource for express-session SessionStore",
+  "main": "index.js",
+  "scripts": {
+    "test": "DEBUG=* istanbul cover tape \\\"test/*-test.js\\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:seshi/edge-sessionstore.git"
+  },
+  "keywords": [
+    "express",
+    "sessionStore",
+    "Apigee",
+    "Edge",
+    "Express",
+    "SessionStore"
+  ],
+  "author": "Seshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seshi/edge-sessionstore/issues"
+  },
+  "homepage": "https://github.com/seshi/edge-sessionstore"
+}
